@@ -16,6 +16,6 @@ import { TabsPage } from './tabs.page';
     TabsPageRoutingModule,
     TabsPage
   ],
-  declarations: [TabsPage]
+  // declarations: [TabsPage]
 })
 export class TabsPageModule {}
