@@ -14,8 +14,8 @@ import { TabsPage } from './tabs.page';
     FormsModule,
     IonicModule,
     TabsPageRoutingModule,
-    TabsPage
+    // TabsPage
   ],
-  // declarations: [TabsPage]
+  declarations: [TabsPage]
 })
 export class TabsPageModule {}
